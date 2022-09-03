@@ -1,9 +1,9 @@
 VERSION 5.00
-Begin VB.Form Form1 
-   Caption         =   "Form1"
+Begin VB.Form Mezok 
+   Caption         =   "Mezok"
    ClientHeight    =   4380
    ClientLeft      =   165
-   ClientTop       =   855
+   ClientTop       =   810
    ClientWidth     =   6195
    ForeColor       =   &H000000FF&
    LinkTopic       =   "Form1"
@@ -75,7 +75,7 @@ Begin VB.Form Form1
       Caption         =   "Kilépés"
    End
 End
-Attribute VB_Name = "Form1"
+Attribute VB_Name = "Mezok"
 Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True

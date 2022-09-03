@@ -1,13 +1,13 @@
 Type=Exe
-Form=dobás.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\System32\Stdole2.tlb#OLE Automation
+Form=hajitas.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
 IconForm="dobas"
 Startup="dobas"
 HelpFile=""
 Title="dobás"
 ExeName32="dobás.exe"
 Command32=""
-Name="Project1"
+Name="hajitas"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1

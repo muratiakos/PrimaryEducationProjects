@@ -4,7 +4,7 @@ Begin VB.Form dobas
    Caption         =   "Test hajítása..."
    ClientHeight    =   5625
    ClientLeft      =   165
-   ClientTop       =   750
+   ClientTop       =   1110
    ClientWidth     =   8355
    KeyPreview      =   -1  'True
    LinkTopic       =   "Form1"
