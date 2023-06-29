@@ -1,10 +1,12 @@
-# Primary School Science Demos - Project Archive
+# Primary School Education tools - Project Archive
 > This is an archive project collecation, unmaintained since 2003.
 
-This repository is a science and math demonstration and educational
-software archive written in the early 2000s as a student.
+This repository is a science, math and literature demo and educational
+software archive written in the early 2000s by me as a student.
 
-The demonstration demo applications were written in Visual Basic 6.
+The demonstration demo applications were maily written in Visual Basic 6
+or Pascal for DOS and Windows.
+
 For binary compilations, dependency and setup files, check releases.
 
 ## Physics
