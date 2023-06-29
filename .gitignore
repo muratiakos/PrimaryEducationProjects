@@ -8,10 +8,10 @@
 # Visual Basic
 *.lib
 *.exp
-*.dll
+#*.dll
 *.zip
-*.exe
-*.ocx
+#*.exe
+#*.ocx
 *.oca
 
 
